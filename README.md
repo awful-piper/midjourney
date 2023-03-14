@@ -1,53 +1,7 @@
 # midjourney
 midjourney notes dump
 
-
-Shaquille O’Neal riding a chicken, cinematic, photorealistic, photo realism, 4k, detailed, high resolution, hdr, insane details,
-
-
-style of Gil Elvgren, punk rock girl wearing a gas mask,a green mowhawk,post apocalyptic background,medium shot,very detailed --ar 7:4
-
-warhammer 40k luna wolves chapter, Realistic face, realistic hands, full body, hyper detailed dynamic scene, ultra photorealistic muted colors, photorealistic, epic composition Unreal Engine, color grading, ultra wide angle, depth of field, hyper detailed, beautifully coloured, crazy details, intricate details, Unreal Engine, cinematic, color grading, editorial photography, photography, photo shoot, DOF, Tilt Blur, White Balance, 32k, Super Resolution, Megapixels, ProPhoto RGB, Half Moon Lighting, Backlighting, Daylighting, Incandescent, Ambient Lighting, Cinematic Lighting, Studio Lighting, Lighting soft, photorealistic, volumetric, accent lighting, global illumination, global illumination in the e Screen Space, Ray Traced Global Illumination, Optics, Scattering, Brightness, Shadows, Roughness, Glare, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Gradation, Chromatic Aberration, GB Displacement, Scan Lines, Ray Tracing, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, incredibly detailed and intricate, hyper maximalist, elegant, hyper realistic, super detailed, dynamic pose, photography --ar 9:16 --s 250
-
-period photography, unreal engine, super detailed, brightness, light,
-
-
-Orc Clockwork King named Huxio::3 intricate agile gear::2 looking at you::3 knives in belts::2 dark::1 shadows::1 retro::2 fantasy::3 high detail::2 mystic::2 
-
-style of Jan Švankmajer,female space marine,detailed and intricate,photograph,complex background city,dark green,medium shot --ar 7:4
-
-a 1970s full spread editorial magazine ad for a minimal alternate reality mayan car, highly detailed photo realistic, studio lighting 
-
-professional color grading,clean sharp focus,film photography --s 750 
-
-isidzukuri386_computer_dieselpunk_by_Paul_Gustav_Fischer_Philip_690ea54e-85b7-479c-83c4-d7489b253f7f
-
-baba yaga, forest, traveling to city, magical realism, fantasy style, tim burton style, 8K, HD, photo realistic, high resolution
-
-Vampire, Goth, Cyberpunk, futuristic, digital art, in the style of Artgerm,octane render, Atmospheric, 600mm lens, Sony Alpha α7, epic, dramatic, cinematic lighting, high contrast, 8k, photo realistic, character design, BubbaGrim
-
-full body view, children standing in a China Town neon cyberpunk city backalley. It is raining. Vampire, Goth, Cyberpunk, futuristic, digital art, in the style of Artgerm,octane render, Atmospheric, 600mm lens, Sony Alpha α7, epic, dramatic, cinematic lighting, high contrast, 8k, photo realistic, character design, BubbaGrim --ar 3:2
-
-Surreal photography in Max Ernst + Robert Crumb style, funk futuristic LSD metallic artistic blue white black giant cyberpunk Owl with metallic golden rainbow skin in front of a scifi dimension, realistic photography, vintage 1960 photography accents, vintage japanese pacific rim --v 4 --ar 2:3
-
-country farmhouse, ultra detailed, atmospheric, realistic, dramatic, particles, station, cinematic, unreal engine, volume fog, light volume, old film, light and airy style, Edgar Alan Poe style, fine details --ar 16:9
-
-detailed sci-fi art, flat wastelands, fractalpunk, wearing dirty flight suit, michael whelan and pixar, looks like a mix of grimes, alphone mucha, 2045, inspired by Thomas M. Baxa, stable diffusion ai as a human, youtube thumbnail -
-
-country farmhouse at night,ultra detailed,atmospheric,realistic, dramatic,particles,fog,old,film --ar 16:9
-
-a white tree with mechanical part branches, futuristic city scene in the background , volumetric lighting, unreal engine, 8K, clean white theme 
-
-photograph inside an empty subway car, bright, 32k, Super-Resolution, Megapixel, DOF, Depth of field, ProPhoto RGB, chiaroscuro, f1.4, cinematic, award winning, daylight + professional lighting + film lighting + Canon medium format + 85mm + anamorphic + lightroom + cinematography + bokeh + lens flare + film grain + HDR10 + 8K, HD, negative space, daylight, focus, realistic, hyperrealism, incredibly detailed, sharp, crazy details + cinematic frame, illumination for photography + 35 mm + 50 mm + 80 mm + 100 mm + hyperrealistic lightroom gallery, Ray Tracing Global Illumination, Optics, multiverse, Materiality, Ambient Occlusion, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Chromatic Aberration, CGI + VFX + SFX + special effects + visual effects + computer generated images +, elegant, hyper real, super detailed, deep coulors, colourful, 4k, 8k, unreal --q 2
-
-dieselpunk,norman rockwell color corrected photograph of a 28 year old attractive female explorer, beautiful smile, full body shot, confident smile, safari hat, well toned body, blonde hair, with perfect abdominal muscles, female model, wearing a short white singlet and dark brown khaki jeans, dynamic pose sideways, in a dusty, Indiana Jones style, desolated temple with statues and scaffolding, sunbeams, dark, 8K, ultra realistic, palm trees, ornate detail, mysterious, pretty, adventure, vintage, no hands 
-
-funk futuristic LSD metallic artistic blue white black giant Owl with metallic golden rainbow skin with orange dots in a plasma interdimensional reality from another perception , realistic photography, vintage 1960 photography accents, vintage japanese pacific rim --v 4 --ar 2:3 - Upscaled by @HistoriaMutante (relaxed)
-Image
-
-vintage color corrected photograph of two archeologist exploring an egyptian tomb with laterns,hieroglyphs cover the walls,clean sharp focus,film,medium shot --ar 7:4
-
-style of john carpenter's the thing a desolate,well light,futurustic isolated experimental facility deep in the alaskan back country,snow falling and distant mountains,clean sharp focus,film,medium shot,very detailed. --ar 7:4  
+artists
 
 Jon McCoy
 Alyn Spiller
@@ -107,6 +61,55 @@ Ashley Wood
 Jamie Hewlett
 Yousuf Karsh
 Dorothea Lange
+
+
+
+Shaquille O’Neal riding a chicken, cinematic, photorealistic, photo realism, 4k, detailed, high resolution, hdr, insane details,
+
+
+style of Gil Elvgren, punk rock girl wearing a gas mask,a green mowhawk,post apocalyptic background,medium shot,very detailed --ar 7:4
+
+warhammer 40k luna wolves chapter, Realistic face, realistic hands, full body, hyper detailed dynamic scene, ultra photorealistic muted colors, photorealistic, epic composition Unreal Engine, color grading, ultra wide angle, depth of field, hyper detailed, beautifully coloured, crazy details, intricate details, Unreal Engine, cinematic, color grading, editorial photography, photography, photo shoot, DOF, Tilt Blur, White Balance, 32k, Super Resolution, Megapixels, ProPhoto RGB, Half Moon Lighting, Backlighting, Daylighting, Incandescent, Ambient Lighting, Cinematic Lighting, Studio Lighting, Lighting soft, photorealistic, volumetric, accent lighting, global illumination, global illumination in the e Screen Space, Ray Traced Global Illumination, Optics, Scattering, Brightness, Shadows, Roughness, Glare, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Gradation, Chromatic Aberration, GB Displacement, Scan Lines, Ray Tracing, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, incredibly detailed and intricate, hyper maximalist, elegant, hyper realistic, super detailed, dynamic pose, photography --ar 9:16 --s 250
+
+period photography, unreal engine, super detailed, brightness, light,
+
+
+Orc Clockwork King named Huxio::3 intricate agile gear::2 looking at you::3 knives in belts::2 dark::1 shadows::1 retro::2 fantasy::3 high detail::2 mystic::2 
+
+style of Jan Švankmajer,female space marine,detailed and intricate,photograph,complex background city,dark green,medium shot --ar 7:4
+
+a 1970s full spread editorial magazine ad for a minimal alternate reality mayan car, highly detailed photo realistic, studio lighting 
+
+professional color grading,clean sharp focus,film photography --s 750 
+
+isidzukuri386_computer_dieselpunk_by_Paul_Gustav_Fischer_Philip_690ea54e-85b7-479c-83c4-d7489b253f7f
+
+baba yaga, forest, traveling to city, magical realism, fantasy style, tim burton style, 8K, HD, photo realistic, high resolution
+
+Vampire, Goth, Cyberpunk, futuristic, digital art, in the style of Artgerm,octane render, Atmospheric, 600mm lens, Sony Alpha α7, epic, dramatic, cinematic lighting, high contrast, 8k, photo realistic, character design, BubbaGrim
+
+full body view, children standing in a China Town neon cyberpunk city backalley. It is raining. Vampire, Goth, Cyberpunk, futuristic, digital art, in the style of Artgerm,octane render, Atmospheric, 600mm lens, Sony Alpha α7, epic, dramatic, cinematic lighting, high contrast, 8k, photo realistic, character design, BubbaGrim --ar 3:2
+
+Surreal photography in Max Ernst + Robert Crumb style, funk futuristic LSD metallic artistic blue white black giant cyberpunk Owl with metallic golden rainbow skin in front of a scifi dimension, realistic photography, vintage 1960 photography accents, vintage japanese pacific rim --v 4 --ar 2:3
+
+country farmhouse, ultra detailed, atmospheric, realistic, dramatic, particles, station, cinematic, unreal engine, volume fog, light volume, old film, light and airy style, Edgar Alan Poe style, fine details --ar 16:9
+
+detailed sci-fi art, flat wastelands, fractalpunk, wearing dirty flight suit, michael whelan and pixar, looks like a mix of grimes, alphone mucha, 2045, inspired by Thomas M. Baxa, stable diffusion ai as a human, youtube thumbnail -
+
+country farmhouse at night,ultra detailed,atmospheric,realistic, dramatic,particles,fog,old,film --ar 16:9
+
+a white tree with mechanical part branches, futuristic city scene in the background , volumetric lighting, unreal engine, 8K, clean white theme 
+
+photograph inside an empty subway car, bright, 32k, Super-Resolution, Megapixel, DOF, Depth of field, ProPhoto RGB, chiaroscuro, f1.4, cinematic, award winning, daylight + professional lighting + film lighting + Canon medium format + 85mm + anamorphic + lightroom + cinematography + bokeh + lens flare + film grain + HDR10 + 8K, HD, negative space, daylight, focus, realistic, hyperrealism, incredibly detailed, sharp, crazy details + cinematic frame, illumination for photography + 35 mm + 50 mm + 80 mm + 100 mm + hyperrealistic lightroom gallery, Ray Tracing Global Illumination, Optics, multiverse, Materiality, Ambient Occlusion, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Chromatic Aberration, CGI + VFX + SFX + special effects + visual effects + computer generated images +, elegant, hyper real, super detailed, deep coulors, colourful, 4k, 8k, unreal --q 2
+
+dieselpunk,norman rockwell color corrected photograph of a 28 year old attractive female explorer, beautiful smile, full body shot, confident smile, safari hat, well toned body, blonde hair, with perfect abdominal muscles, female model, wearing a short white singlet and dark brown khaki jeans, dynamic pose sideways, in a dusty, Indiana Jones style, desolated temple with statues and scaffolding, sunbeams, dark, 8K, ultra realistic, palm trees, ornate detail, mysterious, pretty, adventure, vintage, no hands 
+
+funk futuristic LSD metallic artistic blue white black giant Owl with metallic golden rainbow skin with orange dots in a plasma interdimensional reality from another perception , realistic photography, vintage 1960 photography accents, vintage japanese pacific rim --v 4 --ar 2:3 - Upscaled by @HistoriaMutante (relaxed)
+Image
+
+vintage color corrected photograph of two archeologist exploring an egyptian tomb with laterns,hieroglyphs cover the walls,clean sharp focus,film,medium shot --ar 7:4
+
+style of john carpenter's the thing a desolate,well light,futurustic isolated experimental facility deep in the alaskan back country,snow falling and distant mountains,clean sharp focus,film,medium shot,very detailed. --ar 7:4  
 
 
 style of Tom Cross,A lush forest filled with magical creatures and colorful flowers fairies and sprites,dense foliage,bright sunny,fantasy,ultra detailed,unreal engine --ar 7:4
